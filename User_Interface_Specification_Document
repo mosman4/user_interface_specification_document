@@ -3,7 +3,7 @@
     * First container on the left is users table with 4 columns with the following headers: (ID,User Name, Email and Enabled).
         * Each header of the columns is clickable to sort the users data.
         * Each row in the table will represent user’s Id, name, Email, boolean state of Enabled.
-    * Second Container on the right is a form to add new user with a prominent title “New User”
+    * Second Container on the right is a form to add new user's details with a prominent title “New User”
         * The form includes five simple input fields aligned vertically.
         * The fields are in the following order (Username, Display Name, Phone, Email, and User Roles).
         * At the end of the form there is a checkbox with the title “Enabled” and a drop down menu with the options Guest, Admin and SuperAdmin.
