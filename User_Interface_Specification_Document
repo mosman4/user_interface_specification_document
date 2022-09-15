@@ -1,6 +1,6 @@
 * Header includes button for New User, checkbox to Hide disabled user and a button to Save User.
 * Content of the page is divided into two equal containers horizontally:
-    * First container on the left is users table with 4 columns headers (ID,User Name, Email and Enabled).
+    * First container on the left is users table with 4 columns with the following headers: (ID,User Name, Email and Enabled).
         * Each header of the columns is clickable to sort the users data.
         * Each row in the table will represent user’s Id, name, Email, boolean state of Enabled.
     * Second Container on the right is a form to add new user with a prominent title “New User”
